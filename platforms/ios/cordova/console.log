@@ -1,0 +1,154 @@
+2014-05-07 13:55:58.711 HelloWorld[21609:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-07 13:55:59.070 HelloWorld[21609:70b] Resetting plugins due to page load.
+2014-05-07 13:55:59.177 HelloWorld[21609:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-08 19:24:25.426 HelloWorld[7480:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-08 19:24:25.817 HelloWorld[7480:70b] Resetting plugins due to page load.
+2014-05-08 19:24:25.927 HelloWorld[7480:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-08 19:27:21.375 HelloWorld[7783:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-08 19:27:21.426 HelloWorld[7783:70b] Resetting plugins due to page load.
+2014-05-08 19:27:21.446 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/background.jpg'
+2014-05-08 19:27:21.447 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/background.jpg'
+2014-05-08 19:27:21.447 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/background.jpg'
+2014-05-08 19:27:21.448 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/circle.png'
+2014-05-08 19:27:21.449 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/circle.png'
+2014-05-08 19:27:21.449 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/circle.png'
+2014-05-08 19:27:21.450 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/iphone.png'
+2014-05-08 19:27:21.450 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/iphone.png'
+2014-05-08 19:27:21.451 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/iphone.png'
+2014-05-08 19:27:21.451 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/blur.jpg'
+2014-05-08 19:27:21.452 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/blur.jpg'
+2014-05-08 19:27:21.452 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/blur.jpg'
+2014-05-08 19:27:21.453 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/status_black.png'
+2014-05-08 19:27:21.453 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/status_black.png'
+2014-05-08 19:27:21.453 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/status_black.png'
+2014-05-08 19:27:21.454 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/screen.jpg'
+2014-05-08 19:27:21.454 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/screen.jpg'
+2014-05-08 19:27:21.455 HelloWorld[7783:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/screen.jpg'
+2014-05-08 19:27:21.523 HelloWorld[7783:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-08 19:35:11.699 HelloWorld[8087:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-08 19:35:11.815 HelloWorld[8087:70b] Resetting plugins due to page load.
+2014-05-08 19:35:11.832 HelloWorld[8087:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/blur.jpg'
+2014-05-08 19:35:11.833 HelloWorld[8087:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/blur.jpg'
+2014-05-08 19:35:11.833 HelloWorld[8087:3f03] ERROR whitelist rejection: url='http://creativeda.sh/sandbox/social_menu/img/blur.jpg'
+2014-05-08 19:35:11.893 HelloWorld[8087:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-08 19:52:54.936 HelloWorld[8508:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-08 19:52:55.042 HelloWorld[8508:70b] Resetting plugins due to page load.
+2014-05-08 19:52:55.092 HelloWorld[8508:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-08 19:57:37.249 HelloWorld[8864:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-08 19:57:37.341 HelloWorld[8864:70b] Resetting plugins due to page load.
+2014-05-08 19:57:37.396 HelloWorld[8864:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-08 20:00:01.753 HelloWorld[9165:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-08 20:00:01.850 HelloWorld[9165:70b] Resetting plugins due to page load.
+2014-05-08 20:00:01.904 HelloWorld[9165:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-08 20:17:59.031 HelloWorld[9513:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-08 20:17:59.082 HelloWorld[9513:70b] Resetting plugins due to page load.
+2014-05-08 20:17:59.134 HelloWorld[9513:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-08 20:20:03.332 HelloWorld[9814:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-08 20:20:03.384 HelloWorld[9814:70b] Resetting plugins due to page load.
+2014-05-08 20:20:03.431 HelloWorld[9814:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-08 20:20:59.913 HelloWorld[10106:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-08 20:20:59.964 HelloWorld[10106:70b] Resetting plugins due to page load.
+2014-05-08 20:21:00.015 HelloWorld[10106:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-08 20:23:55.704 HelloWorld[10412:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-08 20:23:55.758 HelloWorld[10412:70b] Resetting plugins due to page load.
+2014-05-08 20:23:55.806 HelloWorld[10412:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 08:45:22.070 HelloWorld[12737:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 08:45:22.261 HelloWorld[12737:70b] Resetting plugins due to page load.
+2014-05-09 08:45:22.335 HelloWorld[12737:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 08:59:44.324 HelloWorld[13119:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 08:59:44.373 HelloWorld[13119:70b] Resetting plugins due to page load.
+2014-05-09 08:59:44.420 HelloWorld[13119:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 09:00:32.639 HelloWorld[13417:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 09:00:32.694 HelloWorld[13417:70b] Resetting plugins due to page load.
+2014-05-09 09:00:32.741 HelloWorld[13417:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 09:03:23.369 HelloWorld[13745:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 09:03:23.429 HelloWorld[13745:70b] Resetting plugins due to page load.
+2014-05-09 09:03:23.475 HelloWorld[13745:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 09:06:36.579 HelloWorld[14055:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 09:06:36.635 HelloWorld[14055:70b] Resetting plugins due to page load.
+2014-05-09 09:06:36.692 HelloWorld[14055:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 09:08:47.822 HelloWorld[14360:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 09:08:47.870 HelloWorld[14360:70b] Resetting plugins due to page load.
+2014-05-09 09:08:47.916 HelloWorld[14360:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 11:46:55.891 HelloWorld[15329:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 11:46:55.944 HelloWorld[15329:70b] Resetting plugins due to page load.
+2014-05-09 11:46:56.095 HelloWorld[15329:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 11:51:04.014 HelloWorld[15641:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 11:51:04.061 HelloWorld[15641:70b] Resetting plugins due to page load.
+2014-05-09 11:51:04.168 HelloWorld[15641:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 11:51:37.368 HelloWorld[16014:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 11:51:37.416 HelloWorld[16014:70b] Resetting plugins due to page load.
+2014-05-09 11:51:37.521 HelloWorld[16014:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 11:52:03.533 HelloWorld[16312:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 11:52:03.581 HelloWorld[16312:70b] Resetting plugins due to page load.
+2014-05-09 11:52:03.681 HelloWorld[16312:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 11:52:17.360 HelloWorld[16643:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 11:52:17.439 HelloWorld[16643:70b] Resetting plugins due to page load.
+2014-05-09 11:52:17.547 HelloWorld[16643:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 11:59:09.764 HelloWorld[16965:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 11:59:09.812 HelloWorld[16965:70b] Resetting plugins due to page load.
+2014-05-09 11:59:09.913 HelloWorld[16965:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 14:10:01.000 HelloWorld[17807:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 14:10:01.054 HelloWorld[17807:70b] Resetting plugins due to page load.
+2014-05-09 14:10:01.180 HelloWorld[17807:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 14:13:40.157 HelloWorld[18155:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 14:13:40.207 HelloWorld[18155:70b] Resetting plugins due to page load.
+2014-05-09 14:13:40.309 HelloWorld[18155:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 14:14:36.148 HelloWorld[18453:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 14:14:36.198 HelloWorld[18453:70b] Resetting plugins due to page load.
+2014-05-09 14:14:36.300 HelloWorld[18453:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 14:43:59.820 HelloWorld[18854:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 14:43:59.877 HelloWorld[18854:70b] Resetting plugins due to page load.
+2014-05-09 14:43:59.966 HelloWorld[18854:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 14:45:21.219 HelloWorld[19159:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 14:45:21.316 HelloWorld[19159:70b] Resetting plugins due to page load.
+2014-05-09 14:45:21.413 HelloWorld[19159:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 14:45:50.284 HelloWorld[19607:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 14:45:50.341 HelloWorld[19607:70b] Resetting plugins due to page load.
+2014-05-09 14:45:50.424 HelloWorld[19607:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 15:02:15.300 HelloWorld[19956:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 15:02:15.351 HelloWorld[19956:70b] Resetting plugins due to page load.
+2014-05-09 15:02:15.438 HelloWorld[19956:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 15:54:59.881 HelloWorld[20509:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 15:54:59.977 HelloWorld[20509:70b] Resetting plugins due to page load.
+2014-05-09 15:55:00.077 HelloWorld[20509:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 15:55:54.573 HelloWorld[20844:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 15:55:54.624 HelloWorld[20844:70b] Resetting plugins due to page load.
+2014-05-09 15:55:54.710 HelloWorld[20844:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 15:58:35.718 HelloWorld[21193:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 15:58:35.769 HelloWorld[21193:70b] Resetting plugins due to page load.
+2014-05-09 15:58:35.859 HelloWorld[21193:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 16:08:13.658 HelloWorld[21524:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 16:08:13.745 HelloWorld[21524:70b] Resetting plugins due to page load.
+2014-05-09 16:08:13.843 HelloWorld[21524:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 16:09:08.033 HelloWorld[21822:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 16:09:08.120 HelloWorld[21822:70b] Resetting plugins due to page load.
+2014-05-09 16:09:08.209 HelloWorld[21822:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 16:12:18.534 HelloWorld[22128:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 16:12:18.617 HelloWorld[22128:70b] Resetting plugins due to page load.
+2014-05-09 16:12:18.711 HelloWorld[22128:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 16:13:51.156 HelloWorld[22430:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 16:13:51.223 HelloWorld[22430:70b] Resetting plugins due to page load.
+2014-05-09 16:13:51.322 HelloWorld[22430:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 16:16:01.784 HelloWorld[22737:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 16:16:01.834 HelloWorld[22737:70b] Resetting plugins due to page load.
+2014-05-09 16:16:01.916 HelloWorld[22737:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 16:17:13.937 HelloWorld[23038:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 16:17:14.023 HelloWorld[23038:70b] Resetting plugins due to page load.
+2014-05-09 16:17:14.130 HelloWorld[23038:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 16:27:32.550 HelloWorld[23376:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 16:27:32.637 HelloWorld[23376:70b] Resetting plugins due to page load.
+2014-05-09 16:27:32.747 HelloWorld[23376:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 16:32:01.608 HelloWorld[23728:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 16:32:01.659 HelloWorld[23728:70b] Resetting plugins due to page load.
+2014-05-09 16:32:01.748 HelloWorld[23728:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 16:37:04.779 HelloWorld[23958:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 16:37:04.805 HelloWorld[23958:70b] active
+2014-05-09 16:37:04.835 HelloWorld[23958:70b] Resetting plugins due to page load.
+2014-05-09 16:37:04.890 HelloWorld[23958:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 16:37:31.046 HelloWorld[23958:70b] active
+2014-05-09 16:43:54.754 HelloWorld[24124:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 16:43:54.781 HelloWorld[24124:70b] active
+2014-05-09 16:43:54.809 HelloWorld[24124:70b] Resetting plugins due to page load.
+2014-05-09 16:43:54.914 HelloWorld[24124:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 16:44:22.604 HelloWorld[24124:70b] active
