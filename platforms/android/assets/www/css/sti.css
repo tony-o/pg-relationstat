@@ -1,0 +1,125 @@
+.container {
+  position: relative;
+  width:100%;
+  min-height: 100%;
+}
+
+.container > div {
+  position:absolute;
+  top:56px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.container > div:not(:first-child) {
+  display: none;
+}
+
+div.container {
+  /*overflow-x: auto;*/
+}
+
+#counter {
+  width: 100%;
+  height: 100%;
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+.counternum {
+  font-size: 2.1em;
+  line-height: 0.95em;
+  height: 0.7em;
+  font-weight: bold;
+  font-family: "Helvetica Neue";
+  padding-left: 9px;
+}
+.counternum > div > span {
+  display: inline-block;
+  min-width: 2em;
+}
+
+.counternum > div > span:nth-child(2) {
+  color: #DDD;
+}
+
+div[data-role='inputcontain'], div[data-role='button'] {
+  padding: 0 10%;
+  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light';
+  font-size: 1.5em;
+  margin: .5em 0;
+}
+
+div[data-role='inputcontain'] > h3 {
+  margin-top: .25em;
+}
+div[data-role='inputcontain'] > a > input, div[data-role='button'] > a, div[data-role='inputcontain'] > a {
+  display: block;
+  color: #999;
+  background: #E3E3E3;
+  width: 100%;
+  font-family: "HelveticaNeue-Light";
+  padding: .6em 0;
+  text-align:center;
+  font-size: 1em;
+  border: 0;
+  -webkit-appearance: none;
+  border-radius: 0;
+}
+
+
+div[data-role='inputcontain'] > a > input, div[data-role='inputcontain'] > input {
+  height: 2.2em;
+  padding: 0;
+  line-height: 2.2em;
+}
+
+div[data-role='inputcontain'] > a {
+  padding: 0;
+}
+
+div[data-role='button'] > a {
+  background: #295882;
+  color: white;
+}
+
+div.button_right {
+  text-align:right;
+  display: none;
+  position: absolute;
+  right: 6pt;
+  top: 23px;
+  font-size: 1.7em;
+  font-family: "HelveticaNeue";
+  font-weight: bold;
+}
+div.button_right a {
+  color: #000;
+  text-decoration: none;
+}
+div[data-role='inputcontain'] > h3 > a.deleter {
+  float: right;
+  display: none;
+  color: #F00;
+}
+
+div.button_bar {
+  text-align: center;
+  background: #FFF;
+  color: #000;
+  font-weight: bold;
+  width: 100%;
+  position: absolute;
+  height: 56px;
+  left:0;
+  right:0;
+  top:0;
+  font-size: 2em;
+  font-family: "HelveticaNeue-Light", "HelveticaNeue";
+  letter-spacing: -1px;
+  line-height:2.3em;
+}
