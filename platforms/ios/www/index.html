@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <link rel="stylesheet" type="text/css" href="css/style.css" />
   <link rel="stylesheet" type="text/css" href="css/sti.css" />
+  <link rel="stylesheet" type="text/css" href="css/hints.css" />
 </head>
 <body>
 
@@ -16,8 +17,8 @@
         </ul>
       </div>
       <div class="content ">
-       <div class="container">
-          <div data-page="main">
+        <div class="container">
+          <div data-page="main" data-title="&nbsp;">
             <div class="counternum">
               <div id="counteryear" style="display:none;"><span></span><span>years</span></div>
               <div><span id="y"></span><span>days</span></div>
@@ -28,23 +29,39 @@
             
             </div> 
           </div>
-          <div data-page="settings">
+          <div data-page="settings" data-title="Settings" data-scroll="yes">
             <div data-role="inputcontain">
-              <h3>Anniversary</h3>
-              <input type="date" id="meetdate" />
+              <h3>
+                <span class="text">Anniversary</span>
+                <a name="#" class="deleter">Delete</a>
+              </h3>
+              <a name="#" data-hint="Enter a date here to get started!" class="hint hint--bottom"><input type="date" id="meetdate" /></a>
             </div>
             <div data-role="inputcontain">
-              <h3>Birthday</h3>
-              <input type="date" id="birthdate" />
+              <h3>
+                <span class="text">Birthday</span>
+                <a name="#" class="deleter">Delete</a>
+              </h3>
+              <a name="#"><input type="date" id="birthdate" /></a>
+            </div>
+            <div data-role="button">
+              <a name="#" id="addstat" data-hint="Add other stuff here like favorite color and food">Add Stat</a>
             </div>
           </div>
+        </div>
+        <div class="button_bar">
+          
         </div>
         <div class="button">
           <img src="imgs/blackburger.png" />
         </div>
+        <div class="button_right" data-menu="settings">
+          <a name="#">Edit</a>
+        </div>
       </div>
     </div>
 
+  <script src="phonegap.js"></script>
   <script src="js/jquery-latest.min.js"></script>
   <script src="js/darcs.js"></script>
   <script src="js/raphael-min.js"></script>

@@ -1,43 +1,71 @@
-<!DOCTYPE html>
-<!--
-    Licensed to the Apache Software Foundation (ASF) under one
-    or more contributor license agreements.  See the NOTICE file
-    distributed with this work for additional information
-    regarding copyright ownership.  The ASF licenses this file
-    to you under the Apache License, Version 2.0 (the
-    "License"); you may not use this file except in compliance
-    with the License.  You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing,
-    software distributed under the License is distributed on an
-    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-     KIND, either express or implied.  See the License for the
-    specific language governing permissions and limitations
-    under the License.
--->
 <html>
-    <head>
-        <meta charset="utf-8" />
-        <meta name="format-detection" content="telephone=no" />
-        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
-        <link rel="stylesheet" type="text/css" href="css/index.css" />
-        <title>Hello World</title>
-    </head>
-    <body>
-        <div class="app">
-            <h1>PhoneGap</h1>
-            <div id="deviceready" class="blink">
-                <p class="event listening">Connecting to Device</p>
-                <p class="event received">Device is Ready</p>
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <link rel="stylesheet" type="text/css" href="css/sti.css" />
+  <link rel="stylesheet" type="text/css" href="css/hints.css" />
+</head>
+<body>
+
+    <div class="screen">
+      <div class="menu">
+        <ul>
+          <li><a href="#main">Stats</a></li>
+          <li><a href="#settings">Settings</a></li>
+        </ul>
+      </div>
+      <div class="content ">
+        <div class="container">
+          <div data-page="main" data-title="&nbsp;">
+            <div class="counternum">
+              <div id="counteryear" style="display:none;"><span></span><span>years</span></div>
+              <div><span id="y"></span><span>days</span></div>
+              <div><span id="d"></span><span>hours</span></div>
+              <div><span id="m"></span><span>minutes</span></div>
             </div>
+            <div id="counter">
+            
+            </div> 
+          </div>
+          <div data-page="settings" data-title="Settings" data-scroll="yes">
+            <div data-role="inputcontain">
+              <h3>
+                <span class="text">Anniversary</span>
+                <a name="#" class="deleter">Delete</a>
+              </h3>
+              <a name="#" data-hint="Enter a date here to get started!" class="hint hint--bottom"><input type="date" id="meetdate" /></a>
+            </div>
+            <div data-role="inputcontain">
+              <h3>
+                <span class="text">Birthday</span>
+                <a name="#" class="deleter">Delete</a>
+              </h3>
+              <a name="#"><input type="date" id="birthdate" /></a>
+            </div>
+            <div data-role="button">
+              <a name="#" id="addstat" data-hint="Add other stuff here like favorite color and food">Add Stat</a>
+            </div>
+          </div>
         </div>
-        <script type="text/javascript" src="phonegap.js"></script>
-        <script type="text/javascript" src="js/index.js"></script>
-        <script type="text/javascript">
-            app.initialize();
-        </script>
-    </body>
+        <div class="button_bar">
+          
+        </div>
+        <div class="button">
+          <img src="imgs/blackburger.png" />
+        </div>
+        <div class="button_right" data-menu="settings">
+          <a name="#">Edit</a>
+        </div>
+      </div>
+    </div>
+
+  <script src="phonegap.js"></script>
+  <script src="js/jquery-latest.min.js"></script>
+  <script src="js/darcs.js"></script>
+  <script src="js/raphael-min.js"></script>
+  <script src="js/menu.js"></script>
+  <script src="js/page.js"></script>
+</body>
 </html>

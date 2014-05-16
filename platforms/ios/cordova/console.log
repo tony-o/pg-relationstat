@@ -152,3 +152,587 @@
 2014-05-09 16:43:54.809 HelloWorld[24124:70b] Resetting plugins due to page load.
 2014-05-09 16:43:54.914 HelloWorld[24124:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
 2014-05-09 16:44:22.604 HelloWorld[24124:70b] active
+2014-05-09 16:57:53.877 HelloWorld[24365:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 16:57:53.908 HelloWorld[24365:70b] active
+2014-05-09 16:57:54.001 HelloWorld[24365:70b] Resetting plugins due to page load.
+2014-05-09 16:57:54.123 HelloWorld[24365:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:00:30.134 HelloWorld[24523:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:00:30.165 HelloWorld[24523:70b] active
+2014-05-09 17:00:30.192 HelloWorld[24523:70b] Resetting plugins due to page load.
+2014-05-09 17:00:30.284 HelloWorld[24523:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:01:32.272 HelloWorld[24523:70b] active
+2014-05-09 17:02:50.229 HelloWorld[24728:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:02:50.255 HelloWorld[24728:70b] active
+2014-05-09 17:02:50.280 HelloWorld[24728:70b] Resetting plugins due to page load.
+2014-05-09 17:02:50.365 HelloWorld[24728:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:03:46.623 HelloWorld[24918:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:03:46.654 HelloWorld[24918:70b] active
+2014-05-09 17:03:46.717 HelloWorld[24918:70b] Resetting plugins due to page load.
+2014-05-09 17:03:46.776 HelloWorld[24918:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:05:04.979 HelloWorld[25115:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:05:05.006 HelloWorld[25115:70b] active
+2014-05-09 17:05:05.031 HelloWorld[25115:70b] Resetting plugins due to page load.
+2014-05-09 17:05:05.084 HelloWorld[25115:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:05:42.133 HelloWorld[25115:70b] active
+2014-05-09 17:06:15.136 HelloWorld[25265:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:06:15.165 HelloWorld[25265:70b] active
+2014-05-09 17:06:15.191 HelloWorld[25265:70b] Resetting plugins due to page load.
+2014-05-09 17:06:15.290 HelloWorld[25265:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:06:16.667 HelloWorld[25265:70b] active
+2014-05-09 17:11:07.493 HelloWorld[25433:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:11:07.521 HelloWorld[25433:70b] active
+2014-05-09 17:11:07.546 HelloWorld[25433:70b] Resetting plugins due to page load.
+2014-05-09 17:11:07.640 HelloWorld[25433:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:12:53.606 HelloWorld[25636:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:12:53.632 HelloWorld[25636:70b] active
+2014-05-09 17:12:53.656 HelloWorld[25636:70b] Resetting plugins due to page load.
+2014-05-09 17:12:53.726 HelloWorld[25636:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:13:31.880 HelloWorld[25636:70b] active
+2014-05-09 17:14:45.818 HelloWorld[25636:70b] active
+2014-05-09 17:15:01.813 HelloWorld[25829:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:15:01.841 HelloWorld[25829:70b] active
+2014-05-09 17:15:01.975 HelloWorld[25829:70b] Resetting plugins due to page load.
+2014-05-09 17:15:02.074 HelloWorld[25829:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:16:10.670 HelloWorld[26019:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:16:10.697 HelloWorld[26019:70b] active
+2014-05-09 17:16:10.722 HelloWorld[26019:70b] Resetting plugins due to page load.
+2014-05-09 17:16:10.783 HelloWorld[26019:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:16:19.265 HelloWorld[26202:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:16:19.300 HelloWorld[26202:70b] active
+2014-05-09 17:16:19.387 HelloWorld[26202:70b] Resetting plugins due to page load.
+2014-05-09 17:16:19.529 HelloWorld[26202:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:17:14.127 HelloWorld[26390:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:17:14.154 HelloWorld[26390:70b] active
+2014-05-09 17:17:14.177 HelloWorld[26390:70b] Resetting plugins due to page load.
+2014-05-09 17:17:14.240 HelloWorld[26390:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:17:19.142 HelloWorld[26390:70b] active
+2014-05-09 17:59:16.834 HelloWorld[26390:70b] active
+2014-05-09 17:59:20.546 HelloWorld[26710:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-09 17:59:20.579 HelloWorld[26710:70b] active
+2014-05-09 17:59:20.681 HelloWorld[26710:70b] Resetting plugins due to page load.
+2014-05-09 17:59:20.797 HelloWorld[26710:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-09 17:59:23.753 HelloWorld[26710:70b] active
+2014-05-10 12:18:51.510 HelloWorld[27090:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 12:18:51.556 HelloWorld[27090:70b] active
+2014-05-10 12:18:51.697 HelloWorld[27090:70b] Resetting plugins due to page load.
+2014-05-10 12:18:51.847 HelloWorld[27090:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 12:29:04.743 HelloWorld[27257:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 12:29:04.771 HelloWorld[27257:70b] active
+2014-05-10 12:29:04.796 HelloWorld[27257:70b] Resetting plugins due to page load.
+2014-05-10 12:29:04.888 HelloWorld[27257:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 12:29:21.753 HelloWorld[27257:70b] active
+2014-05-10 12:45:48.313 HelloWorld[27598:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 12:45:48.339 HelloWorld[27598:70b] active
+2014-05-10 12:45:48.364 HelloWorld[27598:70b] Resetting plugins due to page load.
+2014-05-10 12:46:04.915 HelloWorld[27598:70b] active
+2014-05-10 12:46:07.170 HelloWorld[27598:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-05-10 12:46:07.223 HelloWorld[27598:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 12:46:38.479 HelloWorld[27749:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 12:46:38.505 HelloWorld[27749:70b] active
+2014-05-10 12:46:38.529 HelloWorld[27749:70b] Resetting plugins due to page load.
+2014-05-10 12:46:38.623 HelloWorld[27749:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 12:46:44.256 HelloWorld[27749:70b] active
+2014-05-10 12:46:46.320 HelloWorld[27749:70b] THREAD WARNING: ['Notification'] took '26.477051' ms. Plugin should use a background thread.
+2014-05-10 12:50:35.858 HelloWorld[27902:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 12:50:35.885 HelloWorld[27902:70b] active
+2014-05-10 12:50:35.909 HelloWorld[27902:70b] Resetting plugins due to page load.
+2014-05-10 12:50:36.002 HelloWorld[27902:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 12:50:48.181 HelloWorld[27902:70b] active
+2014-05-10 12:50:52.172 HelloWorld[27902:70b] THREAD WARNING: ['Notification'] took '83.220947' ms. Plugin should use a background thread.
+2014-05-10 12:51:00.450 HelloWorld[27902:70b] THREAD WARNING: ['Notification'] took '11.346191' ms. Plugin should use a background thread.
+2014-05-10 12:52:08.784 HelloWorld[27902:70b] THREAD WARNING: ['Notification'] took '13.270020' ms. Plugin should use a background thread.
+2014-05-10 12:52:10.980 HelloWorld[28384:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 12:52:11.010 HelloWorld[28384:70b] active
+2014-05-10 12:52:11.037 HelloWorld[28384:70b] Resetting plugins due to page load.
+2014-05-10 12:52:11.152 HelloWorld[28384:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 12:52:12.481 HelloWorld[28384:70b] active
+2014-05-10 12:52:16.011 HelloWorld[28384:70b] THREAD WARNING: ['Notification'] took '33.014893' ms. Plugin should use a background thread.
+2014-05-10 12:52:20.702 HelloWorld[28384:70b] THREAD WARNING: ['Notification'] took '11.763916' ms. Plugin should use a background thread.
+2014-05-10 12:53:04.008 HelloWorld[28384:70b] active
+2014-05-10 12:53:07.033 HelloWorld[28643:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 12:53:07.059 HelloWorld[28643:70b] active
+2014-05-10 12:53:07.085 HelloWorld[28643:70b] Resetting plugins due to page load.
+2014-05-10 12:53:07.205 HelloWorld[28643:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 12:53:10.456 HelloWorld[28643:70b] active
+2014-05-10 12:53:14.588 HelloWorld[28643:70b] THREAD WARNING: ['Notification'] took '30.521973' ms. Plugin should use a background thread.
+2014-05-10 12:53:16.299 HelloWorld[28643:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-05-10 12:53:16.305 HelloWorld[28643:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-05-10 12:54:12.838 HelloWorld[28901:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 12:54:12.867 HelloWorld[28901:70b] active
+2014-05-10 12:54:12.893 HelloWorld[28901:70b] Resetting plugins due to page load.
+2014-05-10 12:54:13.010 HelloWorld[28901:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 12:54:14.567 HelloWorld[28901:70b] active
+2014-05-10 12:54:17.931 HelloWorld[28901:70b] THREAD WARNING: ['Notification'] took '30.553223' ms. Plugin should use a background thread.
+2014-05-10 12:54:21.396 HelloWorld[28901:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-05-10 12:54:21.397 HelloWorld[28901:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-05-10 12:54:23.703 HelloWorld[28901:70b] THREAD WARNING: ['Notification'] took '10.958984' ms. Plugin should use a background thread.
+2014-05-10 18:06:41.901 HelloWorld[29348:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 18:06:41.976 HelloWorld[29348:70b] active
+2014-05-10 18:06:42.099 HelloWorld[29348:70b] Resetting plugins due to page load.
+2014-05-10 18:06:42.220 HelloWorld[29348:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 18:07:18.795 HelloWorld[29348:70b] active
+2014-05-10 18:08:23.894 HelloWorld[29611:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 18:08:23.923 HelloWorld[29611:70b] active
+2014-05-10 18:08:23.950 HelloWorld[29611:70b] Resetting plugins due to page load.
+2014-05-10 18:08:24.082 HelloWorld[29611:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 18:08:40.806 HelloWorld[29611:70b] active
+2014-05-10 18:08:44.673 HelloWorld[29611:70b] THREAD WARNING: ['Notification'] took '66.607910' ms. Plugin should use a background thread.
+2014-05-10 18:09:59.149 HelloWorld[29874:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 18:09:59.177 HelloWorld[29874:70b] active
+2014-05-10 18:09:59.244 HelloWorld[29874:70b] Resetting plugins due to page load.
+2014-05-10 18:10:04.498 HelloWorld[29874:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 18:10:12.336 HelloWorld[29874:70b] THREAD WARNING: ['Notification'] took '16.016113' ms. Plugin should use a background thread.
+2014-05-10 18:11:27.110 HelloWorld[30145:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 18:11:27.143 HelloWorld[30145:70b] active
+2014-05-10 18:11:27.212 HelloWorld[30145:70b] Resetting plugins due to page load.
+2014-05-10 18:11:32.029 HelloWorld[30145:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 18:12:44.165 HelloWorld[30406:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 18:12:44.195 HelloWorld[30406:70b] active
+2014-05-10 18:12:44.220 HelloWorld[30406:70b] Resetting plugins due to page load.
+2014-05-10 18:12:51.744 HelloWorld[30406:70b] active
+2014-05-10 18:12:56.799 HelloWorld[30406:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 18:13:41.759 HelloWorld[30664:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 18:13:41.788 HelloWorld[30664:70b] active
+2014-05-10 18:13:41.855 HelloWorld[30664:70b] Resetting plugins due to page load.
+2014-05-10 18:13:44.358 HelloWorld[30664:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 18:14:44.520 HelloWorld[30916:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 18:14:44.548 HelloWorld[30916:70b] active
+2014-05-10 18:14:44.577 HelloWorld[30916:70b] Resetting plugins due to page load.
+2014-05-10 18:15:23.486 HelloWorld[30916:70b] active
+2014-05-10 18:15:25.612 HelloWorld[30916:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-05-10 18:15:28.591 HelloWorld[30916:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 18:15:58.222 HelloWorld[31177:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 18:15:58.252 HelloWorld[31177:70b] active
+2014-05-10 18:15:58.283 HelloWorld[31177:70b] Resetting plugins due to page load.
+2014-05-10 18:16:04.386 HelloWorld[31177:70b] active
+2014-05-10 18:16:11.417 HelloWorld[31177:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 18:16:42.968 HelloWorld[31435:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 18:16:42.999 HelloWorld[31435:70b] active
+2014-05-10 18:16:43.039 HelloWorld[31435:70b] Resetting plugins due to page load.
+2014-05-10 18:16:44.197 HelloWorld[31435:70b] active
+2014-05-10 18:16:55.045 HelloWorld[31435:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 18:22:47.333 HelloWorld[31708:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 18:22:47.369 HelloWorld[31708:70b] active
+2014-05-10 18:22:47.429 HelloWorld[31708:70b] Resetting plugins due to page load.
+2014-05-10 18:22:49.283 HelloWorld[31708:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 19:35:49.449 HelloWorld[32013:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 19:35:49.485 HelloWorld[32013:70b] active
+2014-05-10 19:35:49.516 HelloWorld[32013:70b] Resetting plugins due to page load.
+2014-05-10 19:35:49.626 HelloWorld[32013:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 19:35:58.886 HelloWorld[32013:70b] active
+2014-05-10 19:36:02.721 HelloWorld[32013:70b] THREAD WARNING: ['Notification'] took '31.474121' ms. Plugin should use a background thread.
+2014-05-10 19:36:08.982 HelloWorld[32013:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-05-10 19:36:08.982 HelloWorld[32013:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-05-10 19:36:08.984 HelloWorld[32013:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-05-10 19:36:08.985 HelloWorld[32013:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-05-10 19:36:08.986 HelloWorld[32013:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-05-10 19:36:08.987 HelloWorld[32013:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-05-10 19:37:00.398 HelloWorld[32269:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 19:37:00.431 HelloWorld[32269:70b] active
+2014-05-10 19:37:00.460 HelloWorld[32269:70b] Resetting plugins due to page load.
+2014-05-10 19:37:00.585 HelloWorld[32269:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 19:37:02.523 HelloWorld[32269:70b] active
+2014-05-10 19:49:09.162 HelloWorld[32592:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 19:49:09.191 HelloWorld[32592:70b] active
+2014-05-10 19:49:09.217 HelloWorld[32592:70b] Resetting plugins due to page load.
+2014-05-10 19:49:09.329 HelloWorld[32592:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C37B0EA0-C44B-4D7C-9C78-856C24652FA0/HelloWorld.app/www/index.html
+2014-05-10 19:51:41.766 RelationStats[32894:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 19:51:41.775 RelationStats[32894:70b] Fix applied for database locations?: YES
+2014-05-10 19:51:41.795 RelationStats[32894:70b] active
+2014-05-10 19:51:42.013 RelationStats[32894:70b] Resetting plugins due to page load.
+2014-05-10 19:51:42.137 RelationStats[32894:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-10 19:56:16.410 RelationStats[33200:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 19:56:16.438 RelationStats[33200:70b] active
+2014-05-10 19:56:16.488 RelationStats[33200:70b] Resetting plugins due to page load.
+2014-05-10 19:56:16.592 RelationStats[33200:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-10 19:56:53.698 RelationStats[33200:70b] active
+2014-05-10 19:58:19.196 RelationStats[33470:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 19:58:19.226 RelationStats[33470:70b] active
+2014-05-10 19:58:19.259 RelationStats[33470:70b] Resetting plugins due to page load.
+2014-05-10 19:58:19.360 RelationStats[33470:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-10 19:58:27.826 RelationStats[33470:70b] active
+2014-05-10 19:59:49.379 RelationStats[33729:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 19:59:49.410 RelationStats[33729:70b] active
+2014-05-10 19:59:49.438 RelationStats[33729:70b] Resetting plugins due to page load.
+2014-05-10 19:59:49.550 RelationStats[33729:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-10 19:59:53.246 RelationStats[33729:70b] active
+2014-05-10 20:02:46.575 RelationStats[33995:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-10 20:02:46.603 RelationStats[33995:70b] active
+2014-05-10 20:02:46.632 RelationStats[33995:70b] Resetting plugins due to page load.
+2014-05-10 20:02:46.750 RelationStats[33995:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-11 11:21:14.033 RelationStats[33995:70b] active
+2014-05-11 11:21:25.766 RelationStats[33995:70b] active
+2014-05-11 11:21:58.441 RelationStats[34752:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 11:21:58.477 RelationStats[34752:70b] active
+2014-05-11 11:21:58.509 RelationStats[34752:70b] Resetting plugins due to page load.
+2014-05-11 11:21:58.634 RelationStats[34752:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-11 11:28:42.914 RelationStats[34752:70b] active
+2014-05-11 20:42:58.060 RelationStats[36794:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 20:42:58.102 RelationStats[36794:70b] active
+2014-05-11 20:42:58.194 RelationStats[36794:70b] Resetting plugins due to page load.
+2014-05-11 20:42:58.317 RelationStats[36794:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-11 20:44:53.959 RelationStats[37056:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 20:44:53.991 RelationStats[37056:70b] active
+2014-05-11 20:44:54.020 RelationStats[37056:70b] Resetting plugins due to page load.
+2014-05-11 20:44:54.134 RelationStats[37056:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-11 20:46:26.425 RelationStats[37325:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 20:46:26.456 RelationStats[37325:70b] active
+2014-05-11 20:46:26.480 RelationStats[37325:70b] Resetting plugins due to page load.
+2014-05-11 20:46:26.596 RelationStats[37325:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-11 20:46:37.750 RelationStats[37325:70b] active
+2014-05-11 20:49:24.918 RelationStats[37605:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 20:49:24.946 RelationStats[37605:70b] active
+2014-05-11 20:49:24.997 RelationStats[37605:70b] Resetting plugins due to page load.
+2014-05-11 20:49:28.054 RelationStats[37605:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-11 20:50:23.068 RelationStats[37865:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 20:50:23.101 RelationStats[37865:70b] active
+2014-05-11 20:50:23.131 RelationStats[37865:70b] Resetting plugins due to page load.
+2014-05-11 20:52:00.237 RelationStats[38132:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 20:52:00.267 RelationStats[38132:70b] active
+2014-05-11 20:52:00.293 RelationStats[38132:70b] Resetting plugins due to page load.
+2014-05-11 20:52:00.407 RelationStats[38132:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-11 20:52:09.344 RelationStats[38132:70b] active
+2014-05-11 20:57:14.795 RelationStats[38433:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 20:57:14.825 RelationStats[38433:70b] active
+2014-05-11 20:57:14.855 RelationStats[38433:70b] Resetting plugins due to page load.
+2014-05-11 20:57:14.969 RelationStats[38433:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/61B23B7C-AE9D-46AF-A613-539CDB987CD7/RelationStats.app/www/index.html
+2014-05-11 20:57:20.125 RelationStats[38433:70b] active
+2014-05-11 20:57:47.831 RelationStats[38690:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 20:57:47.865 RelationStats[38690:70b] active
+2014-05-11 20:57:47.927 RelationStats[38690:70b] Resetting plugins due to page load.
+2014-05-11 20:57:48.049 RelationStats[38690:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5F6318D5-7351-421D-8057-87CB625B54AC/RelationStats.app/www/index.html
+2014-05-11 20:59:24.852 RelationStats[39003:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 20:59:24.881 RelationStats[39003:70b] active
+2014-05-11 20:59:24.912 RelationStats[39003:70b] Resetting plugins due to page load.
+2014-05-11 20:59:25.021 RelationStats[39003:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5F6318D5-7351-421D-8057-87CB625B54AC/RelationStats.app/www/index.html
+2014-05-11 20:59:28.430 RelationStats[39003:70b] active
+2014-05-11 21:00:20.556 RelationStats[39266:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 21:00:20.585 RelationStats[39266:70b] active
+2014-05-11 21:00:20.614 RelationStats[39266:70b] Resetting plugins due to page load.
+2014-05-11 21:00:23.853 RelationStats[39266:70b] active
+2014-05-11 21:00:26.073 RelationStats[39266:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5F6318D5-7351-421D-8057-87CB625B54AC/RelationStats.app/www/index.html
+2014-05-11 21:02:44.866 RelationStats[39536:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 21:02:44.896 RelationStats[39536:70b] active
+2014-05-11 21:02:44.967 RelationStats[39536:70b] Resetting plugins due to page load.
+2014-05-11 21:02:48.121 RelationStats[39536:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5F6318D5-7351-421D-8057-87CB625B54AC/RelationStats.app/www/index.html
+2014-05-11 21:03:58.614 RelationStats[39799:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 21:03:58.645 RelationStats[39799:70b] active
+2014-05-11 21:03:58.714 RelationStats[39799:70b] Resetting plugins due to page load.
+2014-05-11 21:05:09.718 RelationStats[39799:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-05-11 21:05:10.435 RelationStats[40062:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 21:05:10.463 RelationStats[40062:70b] active
+2014-05-11 21:05:10.490 RelationStats[40062:70b] Resetting plugins due to page load.
+2014-05-11 21:10:40.276 RelationStats[40351:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 21:10:40.308 RelationStats[40351:70b] active
+2014-05-11 21:10:40.339 RelationStats[40351:70b] Resetting plugins due to page load.
+2014-05-11 21:45:51.306 RelationStats[40721:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 21:45:51.339 RelationStats[40721:70b] active
+2014-05-11 21:45:51.376 RelationStats[40721:70b] Resetting plugins due to page load.
+2014-05-11 21:45:51.491 RelationStats[40721:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5F6318D5-7351-421D-8057-87CB625B54AC/RelationStats.app/www/index.html
+2014-05-11 21:45:52.717 RelationStats[40721:70b] active
+2014-05-11 21:46:12.959 RelationStats[40976:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 21:46:12.997 RelationStats[40976:70b] active
+2014-05-11 21:46:13.089 RelationStats[40976:70b] Resetting plugins due to page load.
+2014-05-11 21:46:13.234 RelationStats[40976:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-11 21:46:51.962 RelationStats[41243:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-11 21:46:51.991 RelationStats[41243:70b] active
+2014-05-11 21:46:52.020 RelationStats[41243:70b] Resetting plugins due to page load.
+2014-05-11 21:46:52.129 RelationStats[41243:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-11 21:47:02.014 RelationStats[41243:70b] active
+2014-05-15 13:17:15.046 RelationStats[50868:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:17:15.318 RelationStats[50868:70b] active
+2014-05-15 13:17:15.408 RelationStats[50868:70b] Resetting plugins due to page load.
+2014-05-15 13:17:15.658 RelationStats[50868:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:17:29.874 RelationStats[50868:70b] active
+2014-05-15 13:18:26.674 RelationStats[51198:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:18:26.725 RelationStats[51198:70b] active
+2014-05-15 13:18:26.809 RelationStats[51198:70b] Resetting plugins due to page load.
+2014-05-15 13:18:26.942 RelationStats[51198:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:18:28.881 RelationStats[51198:70b] active
+2014-05-15 13:19:20.660 RelationStats[51519:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:19:20.691 RelationStats[51519:70b] active
+2014-05-15 13:19:20.737 RelationStats[51519:70b] Resetting plugins due to page load.
+2014-05-15 13:19:20.803 RelationStats[51519:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:19:23.453 RelationStats[51519:70b] active
+2014-05-15 13:44:44.677 RelationStats[53398:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:44:44.710 RelationStats[53398:70b] active
+2014-05-15 13:44:44.758 RelationStats[53398:70b] Resetting plugins due to page load.
+2014-05-15 13:44:44.894 RelationStats[53398:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:45:46.077 RelationStats[53697:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:45:46.106 RelationStats[53697:70b] active
+2014-05-15 13:45:46.141 RelationStats[53697:70b] Resetting plugins due to page load.
+2014-05-15 13:45:54.011 RelationStats[53697:70b] active
+2014-05-15 13:46:39.926 RelationStats[53697:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-05-15 13:46:39.989 RelationStats[53697:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:46:41.123 RelationStats[53887:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:46:41.149 RelationStats[53887:70b] active
+2014-05-15 13:46:41.173 RelationStats[53887:70b] Resetting plugins due to page load.
+2014-05-15 13:46:45.527 RelationStats[53887:70b] active
+2014-05-15 13:46:49.396 RelationStats[53887:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:47:11.694 RelationStats[54076:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:47:11.721 RelationStats[54076:70b] active
+2014-05-15 13:47:11.745 RelationStats[54076:70b] Resetting plugins due to page load.
+2014-05-15 13:47:22.381 RelationStats[54076:70b] active
+2014-05-15 13:47:34.702 RelationStats[54076:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-05-15 13:47:34.755 RelationStats[54076:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:48:03.330 RelationStats[54265:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:48:03.356 RelationStats[54265:70b] active
+2014-05-15 13:48:03.380 RelationStats[54265:70b] Resetting plugins due to page load.
+2014-05-15 13:48:07.453 RelationStats[54265:70b] active
+2014-05-15 13:48:14.658 RelationStats[54265:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-05-15 13:48:23.425 RelationStats[54265:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:48:44.665 RelationStats[54458:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:48:44.692 RelationStats[54458:70b] active
+2014-05-15 13:48:44.718 RelationStats[54458:70b] Resetting plugins due to page load.
+2014-05-15 13:48:50.772 RelationStats[54458:70b] active
+2014-05-15 13:48:55.404 RelationStats[54458:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-05-15 13:48:57.263 RelationStats[54458:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:49:34.704 RelationStats[54650:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:49:34.731 RelationStats[54650:70b] active
+2014-05-15 13:49:34.755 RelationStats[54650:70b] Resetting plugins due to page load.
+2014-05-15 13:49:34.842 RelationStats[54650:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:49:55.148 RelationStats[54650:70b] active
+2014-05-15 13:50:30.829 RelationStats[54841:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:50:30.857 RelationStats[54841:70b] active
+2014-05-15 13:50:30.882 RelationStats[54841:70b] Resetting plugins due to page load.
+2014-05-15 13:50:30.968 RelationStats[54841:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:50:45.410 RelationStats[54841:70b] active
+2014-05-15 13:51:16.668 RelationStats[55030:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:51:16.694 RelationStats[55030:70b] active
+2014-05-15 13:51:16.718 RelationStats[55030:70b] Resetting plugins due to page load.
+2014-05-15 13:51:16.803 RelationStats[55030:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:51:28.067 RelationStats[55030:70b] active
+2014-05-15 13:52:53.460 RelationStats[55224:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:52:53.486 RelationStats[55224:70b] active
+2014-05-15 13:52:53.510 RelationStats[55224:70b] Resetting plugins due to page load.
+2014-05-15 13:52:53.595 RelationStats[55224:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:53:07.831 RelationStats[55224:70b] active
+2014-05-15 13:53:41.665 RelationStats[55417:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 13:53:41.694 RelationStats[55417:70b] active
+2014-05-15 13:53:41.718 RelationStats[55417:70b] Resetting plugins due to page load.
+2014-05-15 13:53:41.804 RelationStats[55417:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 13:53:45.920 RelationStats[55417:70b] active
+2014-05-15 14:27:05.135 RelationStats[55764:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:27:05.161 RelationStats[55764:70b] active
+2014-05-15 14:27:05.185 RelationStats[55764:70b] Resetting plugins due to page load.
+2014-05-15 14:27:05.282 RelationStats[55764:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:27:19.542 RelationStats[55764:70b] active
+2014-05-15 14:29:19.532 RelationStats[55962:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:29:19.560 RelationStats[55962:70b] active
+2014-05-15 14:29:19.584 RelationStats[55962:70b] Resetting plugins due to page load.
+2014-05-15 14:29:19.670 RelationStats[55962:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:29:46.501 RelationStats[56152:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:29:46.526 RelationStats[56152:70b] active
+2014-05-15 14:29:46.550 RelationStats[56152:70b] Resetting plugins due to page load.
+2014-05-15 14:29:46.633 RelationStats[56152:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:29:55.124 RelationStats[56152:70b] active
+2014-05-15 14:46:01.274 RelationStats[56393:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:46:01.300 RelationStats[56393:70b] active
+2014-05-15 14:46:01.324 RelationStats[56393:70b] Resetting plugins due to page load.
+2014-05-15 14:46:01.410 RelationStats[56393:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:46:11.610 RelationStats[56393:70b] active
+2014-05-15 14:47:31.202 RelationStats[56590:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:47:31.229 RelationStats[56590:70b] active
+2014-05-15 14:47:31.253 RelationStats[56590:70b] Resetting plugins due to page load.
+2014-05-15 14:47:31.343 RelationStats[56590:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:47:34.291 RelationStats[56590:70b] active
+2014-05-15 14:48:16.673 RelationStats[56783:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:48:16.700 RelationStats[56783:70b] active
+2014-05-15 14:48:16.727 RelationStats[56783:70b] Resetting plugins due to page load.
+2014-05-15 14:48:16.812 RelationStats[56783:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:48:23.444 RelationStats[56783:70b] active
+2014-05-15 14:48:52.286 RelationStats[56970:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:48:52.312 RelationStats[56970:70b] active
+2014-05-15 14:48:52.336 RelationStats[56970:70b] Resetting plugins due to page load.
+2014-05-15 14:48:52.417 RelationStats[56970:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:48:54.556 RelationStats[56970:70b] active
+2014-05-15 14:49:40.187 RelationStats[57160:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:49:40.213 RelationStats[57160:70b] active
+2014-05-15 14:49:40.237 RelationStats[57160:70b] Resetting plugins due to page load.
+2014-05-15 14:49:40.331 RelationStats[57160:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:49:46.851 RelationStats[57160:70b] active
+2014-05-15 14:49:52.630 RelationStats[57160:70b] THREAD WARNING: ['Notification'] took '39.664062' ms. Plugin should use a background thread.
+2014-05-15 14:50:01.823 RelationStats[57160:70b] THREAD WARNING: ['Notification'] took '10.451904' ms. Plugin should use a background thread.
+2014-05-15 14:51:21.076 RelationStats[57358:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:51:21.101 RelationStats[57358:70b] active
+2014-05-15 14:51:21.125 RelationStats[57358:70b] Resetting plugins due to page load.
+2014-05-15 14:51:21.223 RelationStats[57358:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:51:28.998 RelationStats[57358:70b] active
+2014-05-15 14:51:42.587 RelationStats[57358:70b] THREAD WARNING: ['Notification'] took '24.305908' ms. Plugin should use a background thread.
+2014-05-15 14:52:32.895 RelationStats[57551:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:52:32.921 RelationStats[57551:70b] active
+2014-05-15 14:52:32.945 RelationStats[57551:70b] Resetting plugins due to page load.
+2014-05-15 14:52:33.040 RelationStats[57551:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:52:49.501 RelationStats[57551:70b] active
+2014-05-15 14:53:14.689 RelationStats[57551:70b] THREAD WARNING: ['Notification'] took '23.724854' ms. Plugin should use a background thread.
+2014-05-15 14:53:19.777 RelationStats[57551:70b] THREAD WARNING: ['Notification'] took '10.684082' ms. Plugin should use a background thread.
+2014-05-15 14:53:31.613 RelationStats[57741:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:53:31.640 RelationStats[57741:70b] active
+2014-05-15 14:53:31.665 RelationStats[57741:70b] Resetting plugins due to page load.
+2014-05-15 14:53:31.761 RelationStats[57741:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:53:43.670 RelationStats[57741:70b] active
+2014-05-15 14:54:07.611 RelationStats[57928:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 14:54:07.637 RelationStats[57928:70b] active
+2014-05-15 14:54:07.661 RelationStats[57928:70b] Resetting plugins due to page load.
+2014-05-15 14:54:07.751 RelationStats[57928:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 14:54:17.064 RelationStats[57928:70b] active
+2014-05-15 14:54:23.213 RelationStats[57928:70b] THREAD WARNING: ['Notification'] took '26.146973' ms. Plugin should use a background thread.
+2014-05-15 14:54:29.003 RelationStats[57928:70b] THREAD WARNING: ['Notification'] took '10.969971' ms. Plugin should use a background thread.
+2014-05-15 15:07:10.081 RelationStats[58167:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:07:10.107 RelationStats[58167:70b] active
+2014-05-15 15:07:10.131 RelationStats[58167:70b] Resetting plugins due to page load.
+2014-05-15 15:07:10.232 RelationStats[58167:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 15:07:58.423 RelationStats[58358:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:07:58.455 RelationStats[58358:70b] active
+2014-05-15 15:07:58.498 RelationStats[58358:70b] Resetting plugins due to page load.
+2014-05-15 15:07:58.601 RelationStats[58358:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 15:08:16.232 RelationStats[58358:70b] active
+2014-05-15 15:08:28.480 RelationStats[58358:70b] THREAD WARNING: ['Notification'] took '20.781982' ms. Plugin should use a background thread.
+2014-05-15 15:08:33.080 RelationStats[58358:70b] THREAD WARNING: ['Notification'] took '10.614014' ms. Plugin should use a background thread.
+2014-05-15 15:08:36.916 RelationStats[58358:70b] THREAD WARNING: ['Notification'] took '10.295166' ms. Plugin should use a background thread.
+2014-05-15 15:24:12.262 RelationStats[58664:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:24:12.482 RelationStats[58664:70b] active
+2014-05-15 15:24:12.681 RelationStats[58664:70b] Resetting plugins due to page load.
+2014-05-15 15:24:13.063 RelationStats[58664:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 15:24:53.403 RelationStats[58858:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:24:53.432 RelationStats[58858:70b] active
+2014-05-15 15:24:53.475 RelationStats[58858:70b] Resetting plugins due to page load.
+2014-05-15 15:24:53.573 RelationStats[58858:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 15:27:03.588 RelationStats[59059:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:27:03.619 RelationStats[59059:70b] active
+2014-05-15 15:27:03.657 RelationStats[59059:70b] Resetting plugins due to page load.
+2014-05-15 15:27:03.761 RelationStats[59059:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 15:28:45.068 RelationStats[59255:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:28:45.102 RelationStats[59255:70b] active
+2014-05-15 15:28:45.139 RelationStats[59255:70b] Resetting plugins due to page load.
+2014-05-15 15:28:45.250 RelationStats[59255:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 15:28:49.794 RelationStats[59255:70b] active
+2014-05-15 15:29:31.717 RelationStats[59446:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:29:31.750 RelationStats[59446:70b] active
+2014-05-15 15:29:31.796 RelationStats[59446:70b] Resetting plugins due to page load.
+2014-05-15 15:29:31.907 RelationStats[59446:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 15:29:34.264 RelationStats[59446:70b] active
+2014-05-15 15:35:04.796 RelationStats[59683:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:35:04.830 RelationStats[59683:70b] active
+2014-05-15 15:35:04.873 RelationStats[59683:70b] Resetting plugins due to page load.
+2014-05-15 15:35:04.982 RelationStats[59683:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 15:35:09.230 RelationStats[59683:70b] active
+2014-05-15 15:35:13.724 RelationStats[59683:70b] active
+2014-05-15 15:35:20.636 RelationStats[59683:70b] THREAD WARNING: ['Notification'] took '60.251953' ms. Plugin should use a background thread.
+2014-05-15 15:35:23.767 RelationStats[59683:70b] THREAD WARNING: ['Notification'] took '11.959961' ms. Plugin should use a background thread.
+2014-05-15 15:36:32.469 RelationStats[59879:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:36:32.499 RelationStats[59879:70b] active
+2014-05-15 15:36:32.536 RelationStats[59879:70b] Resetting plugins due to page load.
+2014-05-15 15:36:32.643 RelationStats[59879:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 15:36:40.124 RelationStats[59879:70b] active
+2014-05-15 15:36:46.874 RelationStats[59879:70b] THREAD WARNING: ['Notification'] took '70.732910' ms. Plugin should use a background thread.
+2014-05-15 15:36:50.326 RelationStats[59879:70b] THREAD WARNING: ['Notification'] took '24.950928' ms. Plugin should use a background thread.
+2014-05-15 15:37:24.769 RelationStats[60076:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:37:24.802 RelationStats[60076:70b] active
+2014-05-15 15:37:24.840 RelationStats[60076:70b] Resetting plugins due to page load.
+2014-05-15 15:37:24.954 RelationStats[60076:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 15:37:38.366 RelationStats[60076:70b] active
+2014-05-15 15:38:41.846 RelationStats[60271:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:38:41.902 RelationStats[60271:70b] active
+2014-05-15 15:38:42.046 RelationStats[60271:70b] Resetting plugins due to page load.
+2014-05-15 15:38:42.179 RelationStats[60271:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BDABDAE6-5A74-4A17-814F-B7671269BE56/RelationStats.app/www/index.html
+2014-05-15 15:38:58.901 RelationStats[60271:70b] active
+2014-05-15 15:42:17.284 RelationStats[60499:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:42:17.326 RelationStats[60499:70b] active
+2014-05-15 15:42:17.513 RelationStats[60499:70b] Resetting plugins due to page load.
+2014-05-15 15:42:17.685 RelationStats[60499:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/CCD21332-330F-4102-8191-C57E9D3021F0/RelationStats.app/www/index.html
+2014-05-15 15:42:19.397 RelationStats[60499:70b] THREAD WARNING: ['Notification'] took '123.530029' ms. Plugin should use a background thread.
+2014-05-15 15:42:52.332 RelationStats[60687:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:42:52.365 RelationStats[60687:70b] active
+2014-05-15 15:42:52.468 RelationStats[60687:70b] Resetting plugins due to page load.
+2014-05-15 15:42:52.615 RelationStats[60687:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/D6DF1A29-523C-437F-8E15-65E3CDE7E395/RelationStats.app/www/index.html
+2014-05-15 15:42:55.639 RelationStats[60687:70b] THREAD WARNING: ['Notification'] took '116.868164' ms. Plugin should use a background thread.
+2014-05-15 15:43:03.402 RelationStats[60687:70b] THREAD WARNING: ['Notification'] took '18.072021' ms. Plugin should use a background thread.
+2014-05-15 15:43:05.559 RelationStats[60687:70b] THREAD WARNING: ['Notification'] took '93.194092' ms. Plugin should use a background thread.
+2014-05-15 15:58:17.971 RelationStats[1009:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:58:18.006 RelationStats[1009:70b] active
+2014-05-15 15:58:18.072 RelationStats[1009:70b] Resetting plugins due to page load.
+2014-05-15 15:58:18.187 RelationStats[1009:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8A0B72A-B23C-4FB6-A6B9-02ABBBE39466/RelationStats.app/www/index.html
+2014-05-15 15:59:02.670 RelationStats[1201:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 15:59:02.695 RelationStats[1201:70b] active
+2014-05-15 15:59:02.720 RelationStats[1201:70b] Resetting plugins due to page load.
+2014-05-15 15:59:02.822 RelationStats[1201:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8A0B72A-B23C-4FB6-A6B9-02ABBBE39466/RelationStats.app/www/index.html
+2014-05-15 15:59:06.497 RelationStats[1201:70b] active
+2014-05-15 16:01:30.839 RelationStats[1406:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:01:30.865 RelationStats[1406:70b] active
+2014-05-15 16:01:30.910 RelationStats[1406:70b] Resetting plugins due to page load.
+2014-05-15 16:01:31.014 RelationStats[1406:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8A0B72A-B23C-4FB6-A6B9-02ABBBE39466/RelationStats.app/www/index.html
+2014-05-15 16:01:33.829 RelationStats[1406:70b] active
+2014-05-15 16:01:55.046 RelationStats[1595:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:01:55.075 RelationStats[1595:70b] active
+2014-05-15 16:01:55.134 RelationStats[1595:70b] Resetting plugins due to page load.
+2014-05-15 16:01:55.239 RelationStats[1595:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5F3F3D49-274F-4FAF-8DC1-DCF458AFC3C1/RelationStats.app/www/index.html
+2014-05-15 16:02:30.280 RelationStats[1595:70b] THREAD WARNING: ['Notification'] took '27.700195' ms. Plugin should use a background thread.
+2014-05-15 16:02:31.785 RelationStats[1782:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:02:31.809 RelationStats[1782:70b] active
+2014-05-15 16:02:31.832 RelationStats[1782:70b] Resetting plugins due to page load.
+2014-05-15 16:02:31.926 RelationStats[1782:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5F3F3D49-274F-4FAF-8DC1-DCF458AFC3C1/RelationStats.app/www/index.html
+2014-05-15 16:02:50.296 RelationStats[1969:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:02:50.325 RelationStats[1969:70b] active
+2014-05-15 16:02:50.385 RelationStats[1969:70b] Resetting plugins due to page load.
+2014-05-15 16:02:50.491 RelationStats[1969:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9408EFA9-0B34-4965-9B94-BF40ACBE104A/RelationStats.app/www/index.html
+2014-05-15 16:03:36.196 RelationStats[2161:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:03:36.221 RelationStats[2161:70b] active
+2014-05-15 16:03:36.243 RelationStats[2161:70b] Resetting plugins due to page load.
+2014-05-15 16:03:36.338 RelationStats[2161:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/9408EFA9-0B34-4965-9B94-BF40ACBE104A/RelationStats.app/www/index.html
+2014-05-15 16:03:57.681 RelationStats[2347:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:03:57.710 RelationStats[2347:70b] active
+2014-05-15 16:03:57.769 RelationStats[2347:70b] Resetting plugins due to page load.
+2014-05-15 16:03:57.877 RelationStats[2347:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/26EC1EE7-1897-49EE-A79E-26F60A673497/RelationStats.app/www/index.html
+2014-05-15 16:04:06.383 RelationStats[2347:70b] THREAD WARNING: ['Notification'] took '28.936035' ms. Plugin should use a background thread.
+2014-05-15 16:04:27.957 RelationStats[2347:70b] THREAD WARNING: ['Notification'] took '13.671143' ms. Plugin should use a background thread.
+2014-05-15 16:05:10.556 RelationStats[2539:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:05:10.581 RelationStats[2539:70b] active
+2014-05-15 16:05:10.605 RelationStats[2539:70b] Resetting plugins due to page load.
+2014-05-15 16:05:10.702 RelationStats[2539:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/26EC1EE7-1897-49EE-A79E-26F60A673497/RelationStats.app/www/index.html
+2014-05-15 16:05:16.084 RelationStats[2539:70b] active
+2014-05-15 16:05:33.698 RelationStats[2725:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:05:33.726 RelationStats[2725:70b] active
+2014-05-15 16:05:33.785 RelationStats[2725:70b] Resetting plugins due to page load.
+2014-05-15 16:05:33.894 RelationStats[2725:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BB0A181E-5BBC-4758-8676-1997E4AFCE71/RelationStats.app/www/index.html
+2014-05-15 16:05:42.009 RelationStats[2725:70b] THREAD WARNING: ['Notification'] took '21.821045' ms. Plugin should use a background thread.
+2014-05-15 16:05:58.151 RelationStats[2725:70b] active
+2014-05-15 16:06:02.573 RelationStats[2725:70b] active
+2014-05-15 16:27:02.973 RelationStats[3276:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:27:03.004 RelationStats[3276:70b] active
+2014-05-15 16:27:03.047 RelationStats[3276:70b] Resetting plugins due to page load.
+2014-05-15 16:27:03.158 RelationStats[3276:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BB0A181E-5BBC-4758-8676-1997E4AFCE71/RelationStats.app/www/index.html
+2014-05-15 16:27:07.385 RelationStats[3276:70b] active
+2014-05-15 16:29:21.067 RelationStats[3474:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:29:21.093 RelationStats[3474:70b] active
+2014-05-15 16:29:21.116 RelationStats[3474:70b] Resetting plugins due to page load.
+2014-05-15 16:29:21.214 RelationStats[3474:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BB0A181E-5BBC-4758-8676-1997E4AFCE71/RelationStats.app/www/index.html
+2014-05-15 16:31:09.594 RelationStats[3877:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:31:09.620 RelationStats[3877:70b] active
+2014-05-15 16:31:09.656 RelationStats[3877:70b] Resetting plugins due to page load.
+2014-05-15 16:31:09.748 RelationStats[3877:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BB0A181E-5BBC-4758-8676-1997E4AFCE71/RelationStats.app/www/index.html
+2014-05-15 16:31:31.003 RelationStats[4066:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:31:31.030 RelationStats[4066:70b] active
+2014-05-15 16:31:31.095 RelationStats[4066:70b] Resetting plugins due to page load.
+2014-05-15 16:31:31.190 RelationStats[4066:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BB0A181E-5BBC-4758-8676-1997E4AFCE71/RelationStats.app/www/index.html
+2014-05-15 16:31:53.540 RelationStats[4257:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:31:53.567 RelationStats[4257:70b] active
+2014-05-15 16:31:53.617 RelationStats[4257:70b] Resetting plugins due to page load.
+2014-05-15 16:31:53.724 RelationStats[4257:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BB0A181E-5BBC-4758-8676-1997E4AFCE71/RelationStats.app/www/index.html
+2014-05-15 16:32:06.746 RelationStats[4443:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:32:06.779 RelationStats[4443:70b] active
+2014-05-15 16:32:06.852 RelationStats[4443:70b] Resetting plugins due to page load.
+2014-05-15 16:32:06.963 RelationStats[4443:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8D52DE0B-03D4-41A6-918A-4BCE481417DB/RelationStats.app/www/index.html
+2014-05-15 16:32:24.692 RelationStats[4630:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:32:24.717 RelationStats[4630:70b] active
+2014-05-15 16:32:24.745 RelationStats[4630:70b] Resetting plugins due to page load.
+2014-05-15 16:32:24.860 RelationStats[4630:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8D52DE0B-03D4-41A6-918A-4BCE481417DB/RelationStats.app/www/index.html
+2014-05-15 16:39:54.272 RelationStats[5000:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:39:54.369 RelationStats[5000:70b] active
+2014-05-15 16:39:54.492 RelationStats[5000:70b] Resetting plugins due to page load.
+2014-05-15 16:39:54.720 RelationStats[5000:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8D52DE0B-03D4-41A6-918A-4BCE481417DB/RelationStats.app/www/index.html
+2014-05-15 16:43:17.051 ForMen.[5334:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-15 16:43:17.084 ForMen.[5334:70b] active
+2014-05-15 16:43:17.192 ForMen.[5334:70b] Resetting plugins due to page load.
+2014-05-15 16:43:17.328 ForMen.[5334:70b] Finished load of: file:///Users/tony/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A28F7840-DD39-4D43-917C-875AAD53B453/ForMen..app/www/index.html
+2014-05-15 16:43:23.632 ForMen.[5334:70b] active

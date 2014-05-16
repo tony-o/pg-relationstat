@@ -1,4 +1,4 @@
-/Users/tony/projects/phonegap/hello-world/platforms/android/ant-gen/com/phonegap/helloworld/R.java \
+/Users/tony/projects/phonegap/hello-world/platforms/android/ant-gen/com/darcsys/formen/R.java \
  : /Users/tony/projects/phonegap/hello-world/platforms/android/res/drawable/icon.png \
 /Users/tony/projects/phonegap/hello-world/platforms/android/res/drawable-hdpi/icon.png \
 /Users/tony/projects/phonegap/hello-world/platforms/android/res/drawable-ldpi/icon.png \
